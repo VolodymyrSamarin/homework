@@ -1,0 +1,36 @@
+div{
+    color: blue;
+}
+
+.pau{
+    color: aqua;
+}
+
+.pau > div {
+    color: blueviolet;
+}
+
+#l3{
+    background-color: yellow;
+}
+
+a[href$="html"]{
+    text-decoration: none;
+    font-size: 15pt;
+}
+
+div b{
+    font-style: italic;
+}
+
+.ds>p {
+    background-color: chartreuse;
+}
+
+.ps div+p{
+    background-color: green;
+}
+
+#ik1 div div p{
+    background-color: darkviolet;
+}
